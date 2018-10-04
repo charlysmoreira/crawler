@@ -1,0 +1,16 @@
+{
+  "name": "crawler_siops",
+  "version": "1.0.0",
+  "description": "Crawler para buscar informação do SIOPS para o app financeiro",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "charlys_pinheiro@atlantico.com.br",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "puppeteer": "^1.8.0"
+  }
+}
